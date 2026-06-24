@@ -1,1 +1,1 @@
-print("This project will print you Details ")
+print("This project will print your Personal Details ")
