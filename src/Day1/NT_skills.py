@@ -1,0 +1,1 @@
+print("This prject will print Non Technical Skills ")
